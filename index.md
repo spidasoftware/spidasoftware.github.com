@@ -1,46 +1,23 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: SPIDASoftware
+tagline: Because github is the easiest to use!
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## Indroduction
 
-## Update Author Attributes
+Welcome to the spida website.  We have put together a much documentation here as we can manage.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+### API
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+We have put a lot of work into our API's and published them here for your ease of use.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+### Documentation
 
-    $ rm -rf _posts/core-samples
+JavaDocs and other developer related documentation can be found here as well.
 
-Here's a sample "posts list".
+## Posts
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+We also have some random blog posts here for general computer related topics.

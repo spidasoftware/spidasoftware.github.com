@@ -1,0 +1,8 @@
+
+http://spidasoftware.github.com/archive.html
+http://spidasoftware.github.com/atom.xml
+http://spidasoftware.github.com/categories.html
+http://spidasoftware.github.com/index.html
+http://spidasoftware.github.com/pages.html
+http://spidasoftware.github.com/sitemap.txt
+http://spidasoftware.github.com/tags.html
