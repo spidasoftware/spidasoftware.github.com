@@ -14,6 +14,8 @@ Welcome to the spida website.  We have put together a much documentation here as
 
 We have put a lot of work into our API's and published them here for your ease of use.
 
+All of the code for our API is contained in the open source project [here](https://github.com/spidasoftware/schema).
+
 ### Documentation
 
 JavaDocs and other developer related documentation can be found here as well.
