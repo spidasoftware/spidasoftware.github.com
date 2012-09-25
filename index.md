@@ -8,22 +8,13 @@ tagline: Because github is the easiest to use!
 
 ## Introduction
 
-Welcome to the spida website.  We have put together a much documentation here as we can manage.
-
-### API
-
-We have put a lot of work into our API's and published them here for your ease of use.
-
-All of the code for our API is contained in the open source project [here](https://github.com/spidasoftware/schema).
-
-### Documentation
-
-JavaDocs and other developer related documentation can be found here as well.
+Welcome to the spida github page.  This is where you come to get your open source stuff we have made.
 
 ### Projects
 
 Open-source projects that we have put up on github.
 
+* SPIDA Schema [source](https://github.com/spidasoftware/schema): Our external API and interface examples.
 * jquery.patiencebutton [source](https://github.com/spidasoftware/jquery.patiencebutton): Disable a button on click.
 * status-checker [source](https://github.com/spidasoftware/status-checker): Query a url for a valid response to check status.
 
